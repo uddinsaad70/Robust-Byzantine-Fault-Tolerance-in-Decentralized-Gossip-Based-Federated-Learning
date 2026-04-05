@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Data (MNIST downloads here — large files, no need to upload)
+data/
+
+# Virtual environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
